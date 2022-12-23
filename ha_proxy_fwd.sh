@@ -1,4 +1,4 @@
-#!/bin/bash -xv
+#!/bin/bash
 
 ##script to append a config line in ha_proxy to forward a port. define port_src and port_dest.
 ## this also will remove port wss 443 from kamailio config and change service owner to kamailio on kamailio.
